@@ -14,3 +14,6 @@ do
         cp -R $DIR/$dotfile $HOME
     fi
 done
+
+# clean up after running
+rm -rf $DIR/dotfiles
