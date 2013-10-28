@@ -16,4 +16,4 @@ do
 done
 
 # clean up after running
-rm -rf $DIR/dotfiles
+rm -rf $DIR
