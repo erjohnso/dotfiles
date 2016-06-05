@@ -14,4 +14,5 @@ set colorcolumn=80
 set nospell
 set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
 set list
+set background=dark
 syn on
